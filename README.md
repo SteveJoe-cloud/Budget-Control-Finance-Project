@@ -72,4 +72,3 @@ The dashboard is built on three core pillars of financial data:
 | --- | --- |
 | ![Home Page](https://github.com/SteveJoe-cloud/Budget-Control-Finance-Project/blob/main/assets/Home%20(1).png) | ![Overview](https://github.com/SteveJoe-cloud/Budget-Control-Finance-Project/blob/main/assets/Overview.png) |
 
-*(Note: These views provide MTD/YTD snapshots and Cost Center breakdowns.)*
