@@ -8,7 +8,7 @@
 
 | Executive Summary (Home) | Deep-Dive Analysis (Overview) |
 | --- | --- |
-| <img src="Home.jpg" width="400" alt="Executive Home Dashboard"> | <img src="Overview (1).jpg" width="400" alt="Overview Analysis Dashboard"> |
+| [Home Page] | [Overview](https://github.com/SteveJoe-cloud/Budget-Control-Finance-Project/blob/main/assets/Overview.png) |
 
 *(Note: These views provide MTD/YTD snapshots and Cost Center breakdowns.)*
 
