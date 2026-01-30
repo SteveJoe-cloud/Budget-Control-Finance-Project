@@ -63,9 +63,10 @@ The dashboard is built on three core pillars of financial data:
 * **Design/Prototyping:** [Figma / Adobe XD]
 
 ---
----
 
 ## 📸 Project Previews
+
+[Tableau Link] (https://public.tableau.com/app/profile/stephen.kamau/viz/Budgetcontrol_17697491785070/Home#1)
 
 | Executive Summary (Home) | Deep-Dive Analysis (Overview) |
 | --- | --- |
